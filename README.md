@@ -11,10 +11,10 @@ The AntiDoubleAccount plugin prevents players from using multiple accounts to jo
 - Supports whitelist for exempting certain IP addresses from the check.
 
 ### Installation
-1. Download the plugin from the releases section.
+1. Download the plugin.
 2. Extract the contents of the .zip file.
 3. Place the extracted files in the `plugins` folder of your PocketMine server.
-4. Download the DevTools plugin 
+4. Download and place the DevTools plugin 
 5. Restart your server.
 
 ### Configuration
@@ -34,10 +34,10 @@ Le plugin AntiDoubleAccount empêche les joueurs d'utiliser plusieurs comptes po
 - Prend en charge la liste blanche pour exempter certaines adresses IP de la vérification.
 
 ### Installation
-1. Téléchargez le plugin depuis la section des releases.
-2. Extrayez le contenu du fichier .zip.
+1. Téléchargez le plugin.
+2. Désarchiver le contenu du fichier .zip.
 3. Placez les fichiers extraits dans le dossier `plugins` de votre serveur PocketMine.
-4. Télécharge le plugin DevTools
+4. Télécharge et place le plugin DevTools sur votre serveur
 5. Redémarrez votre serveur.
 
 ### Configuration
