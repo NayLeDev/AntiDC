@@ -1,0 +1,17 @@
+#YOU MUST CHANGE THIS CONFIG WHEN THE SERVER IS OFF OTHERWISE IT WILL NOT SAVE THE DATA
+
+#Whitelist of player names allowed to join the server without being checked for double accounts 
+whitelist:
+  - NaykuuMc
+  - AutreJoueur
+
+# Whitelist IP addresses allowed to join the server without being checked for duplicate accounts 
+ip-whitelist:
+  - 192.168.1.100
+  - 10.0.0.2
+
+# Data from IP addresses associated with players DO NOT TOUCH IT 
+player-ips:
+  192.168.1.100:
+    - random
+    - autrejoueur
