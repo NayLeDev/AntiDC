@@ -1,0 +1,7 @@
+---
+name: AntiDC
+version: 0.0.1
+main: Nay\AntiDC\Main
+api: 5.0.0
+src-namespace-prefix: Nay\AntiDC
+...
